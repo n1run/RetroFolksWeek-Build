@@ -1,3 +1,5 @@
+# BIG NOTICE! THIS IS ONLY THE FIRST EVER PUBLIC VERSION OF THIS MOD. IT HAS BARELY ANYTHING.
+
 # Welcome to Retro Folks!
 Retro Folks is a project where the game "Retro Slap Battles" on Retrostudio (Roblox), is a Friday Night Funkin' mod!
 ## How do I download this mod?
