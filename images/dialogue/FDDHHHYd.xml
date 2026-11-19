@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FDDHHHYd.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AngryTalk0000" x="10" y="10" width="137" height="273"/>
+	<SubTexture name="AwesomeTalk0000" x="157" y="10" width="190" height="280"/>
+	<SubTexture name="NormalTalk0000" x="357" y="10" width="150" height="273"/>
+	<SubTexture name="SuprisedTalk 0000" x="517" y="10" width="197" height="273"/>
+</TextureAtlas>

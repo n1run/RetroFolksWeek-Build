@@ -1,0 +1,64 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		200,
+		130
+	],
+	"no_antialiasing": false,
+	"scale": 2.55,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-12
+			],
+			"loop_name": "NormalTalk",
+			"idle_name": "NormalTalk"
+		},
+		{
+			"loop_offsets": [
+				-15,
+				-12
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				-15,
+				-12
+			],
+			"loop_name": "AngryTalk",
+			"idle_name": "AngryTalk"
+		},
+		{
+			"loop_name": "Awesome",
+			"idle_offsets": [
+				23,
+				0
+			],
+			"idle_name": "Awesome",
+			"anim": "awesome",
+			"loop_offsets": [
+				23,
+				0
+			]
+		},
+		{
+			"loop_name": "Suprised",
+			"idle_offsets": [
+				42,
+				-12
+			],
+			"idle_name": "Suprised",
+			"anim": "suprised",
+			"loop_offsets": [
+				42,
+				-12
+			]
+		}
+	],
+	"image": "FDDHHHYd"
+}

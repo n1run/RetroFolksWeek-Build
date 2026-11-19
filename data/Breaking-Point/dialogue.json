@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.5,
+			"portrait": "FDDHHHYd",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "FDDHHHYd",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "THAT'S IT."
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "FDDHHHYd",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "I TAUGHT YOU THIS GAME AND THIS IS HOW YOU REPAY ME?"
+		},
+		{
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "look im sorry dawg"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "FDDHHHYd",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "THIS IS THE SECOND TIME YOU'VE HIT ME!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "you gotta chill man"
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "FDDHHHYd",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "DAMN YOU. AND YOUR GIRLFRIEND."
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "FDDHHHYd",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "IT'S SLAPPING TIME!"
+		}
+	]
+}

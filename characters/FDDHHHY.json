@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"offsets": [-3, 5],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [-127, -59],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-guitar",
+			"indices": [],
+			"name": "GuitarBring"
+		},
+		{
+			"offsets": [-131, -54],
+			"loop": false,
+			"fps": 24,
+			"anim": "guitar",
+			"indices": [],
+			"name": "Guitar000"
+		},
+		{
+			"loop": true,
+			"offsets": [-124, -57],
+			"anim": "idles",
+			"fps": 24,
+			"name": "IdleSpeed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-36, -57],
+			"anim": "singLEFTs",
+			"fps": 24,
+			"name": "LeftSpeed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-36, -59],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": " Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-100, -88],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-100, -88],
+			"anim": "singDOWNs",
+			"fps": 24,
+			"name": "DownSpeed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [68, -47],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [68, -47],
+			"anim": "singRIGHTs",
+			"fps": 24,
+			"name": "RightSpeed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-133, -7],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-133, -7],
+			"anim": "singUPs",
+			"fps": 24,
+			"name": "UpSpeed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-102, -59],
+			"anim": "pre-speed",
+			"fps": 24,
+			"name": "Pre-speed",
+			"indices": []
+		},
+		{
+			"offsets": [-124, -57],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Idle0"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/FDDHHHY",
+	"position": [20, 310],
+	"healthicon": "FDDHHHY",
+	"flip_x": false,
+	"healthbar_colors": [255, 255, 255],
+	"camera_position": [100, -20],
+	"sing_duration": 4.1,
+	"scale": 1.8,
+	"_editor_isPlayer": false
+}

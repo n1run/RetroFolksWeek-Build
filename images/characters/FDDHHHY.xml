@@ -1,0 +1,287 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FDDHHHY.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name=" Left0000" x="10" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0001" x="238" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0002" x="466" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0003" x="694" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0004" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0005" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0006" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0007" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0008" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0009" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0010" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0011" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0012" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0013" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0014" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0015" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0016" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0017" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0018" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0019" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0020" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0021" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0022" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0023" x="922" y="10" width="218" height="273"/>
+	<SubTexture name=" Left0024" x="922" y="10" width="218" height="273"/>
+	<SubTexture name="Down0000" x="1150" y="10" width="216" height="258"/>
+	<SubTexture name="Down0001" x="1376" y="10" width="216" height="258"/>
+	<SubTexture name="Down0002" x="1602" y="10" width="216" height="258"/>
+	<SubTexture name="Down0003" x="1828" y="10" width="216" height="258"/>
+	<SubTexture name="Down0004" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0005" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0006" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0007" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0008" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0009" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0010" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0011" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0012" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0013" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0014" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0015" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0016" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0017" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0018" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0019" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0020" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0021" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0022" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0023" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="Down0024" x="2054" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0000" x="2280" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0001" x="2506" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0002" x="2732" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0003" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0004" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0005" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0006" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0007" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0008" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0009" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0010" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0011" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0012" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0013" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0014" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0015" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0016" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0017" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0018" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0019" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0020" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0021" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0022" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0023" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="DownSpeed0024" x="2958" y="10" width="216" height="258"/>
+	<SubTexture name="Guitar0000" x="3184" y="10" width="214" height="273"/>
+	<SubTexture name="Guitar0001" x="3408" y="10" width="214" height="273"/>
+	<SubTexture name="Guitar0002" x="3632" y="10" width="214" height="273"/>
+	<SubTexture name="Guitar0003" x="3856" y="10" width="214" height="273"/>
+	<SubTexture name="Guitar0004" x="10" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0005" x="234" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0006" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0007" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0008" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0009" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0010" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0011" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0012" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0013" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0014" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0015" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0016" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0017" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0018" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0019" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="Guitar0020" x="458" y="293" width="214" height="273"/>
+	<SubTexture name="GuitarBring0000" x="682" y="293" width="197" height="273"/>
+	<SubTexture name="GuitarBring0001" x="889" y="293" width="197" height="273"/>
+	<SubTexture name="GuitarBring0002" x="1096" y="293" width="197" height="273"/>
+	<SubTexture name="GuitarBring0003" x="1303" y="293" width="197" height="273"/>
+	<SubTexture name="GuitarBring0004" x="1510" y="293" width="197" height="273"/>
+	<SubTexture name="GuitarBring0005" x="1717" y="293" width="197" height="273"/>
+	<SubTexture name="GuitarBring0006" x="1717" y="293" width="197" height="273"/>
+	<SubTexture name="GuitarBring0007" x="1924" y="293" width="197" height="273"/>
+	<SubTexture name="GuitarBring0008" x="2131" y="293" width="197" height="273"/>
+	<SubTexture name="GuitarBring0009" x="2338" y="293" width="197" height="273"/>
+	<SubTexture name="GuitarBring0010" x="2545" y="293" width="197" height="273"/>
+	<SubTexture name="GuitarBring0011" x="2752" y="293" width="197" height="273"/>
+	<SubTexture name="GuitarBring0012" x="2959" y="293" width="197" height="273"/>
+	<SubTexture name="GuitarBring0013" x="3166" y="293" width="197" height="273"/>
+	<SubTexture name="GuitarBring0014" x="3166" y="293" width="197" height="273"/>
+	<SubTexture name="Idle0000" x="3373" y="293" width="195" height="274"/>
+	<SubTexture name="Idle0001" x="3578" y="293" width="195" height="274"/>
+	<SubTexture name="Idle0002" x="3783" y="293" width="195" height="274"/>
+	<SubTexture name="Idle0003" x="10" y="577" width="195" height="274"/>
+	<SubTexture name="Idle0004" x="215" y="577" width="195" height="274"/>
+	<SubTexture name="Idle0005" x="420" y="577" width="195" height="274"/>
+	<SubTexture name="Idle0006" x="420" y="577" width="195" height="274"/>
+	<SubTexture name="Idle0007" x="420" y="577" width="195" height="274"/>
+	<SubTexture name="Idle0008" x="420" y="577" width="195" height="274"/>
+	<SubTexture name="Idle0009" x="420" y="577" width="195" height="274"/>
+	<SubTexture name="Idle0010" x="420" y="577" width="195" height="274"/>
+	<SubTexture name="Idle0011" x="420" y="577" width="195" height="274"/>
+	<SubTexture name="Idle0012" x="420" y="577" width="195" height="274"/>
+	<SubTexture name="Idle0013" x="420" y="577" width="195" height="274"/>
+	<SubTexture name="IdleSpeed0000" x="625" y="577" width="197" height="274"/>
+	<SubTexture name="IdleSpeed0001" x="832" y="577" width="197" height="274"/>
+	<SubTexture name="IdleSpeed0002" x="1039" y="577" width="197" height="274"/>
+	<SubTexture name="IdleSpeed0003" x="1246" y="577" width="197" height="274"/>
+	<SubTexture name="IdleSpeed0004" x="1246" y="577" width="197" height="274"/>
+	<SubTexture name="IdleSpeed0005" x="1246" y="577" width="197" height="274"/>
+	<SubTexture name="IdleSpeed0006" x="1246" y="577" width="197" height="274"/>
+	<SubTexture name="LeftSpeed0000" x="1453" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0001" x="1691" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0002" x="1929" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0003" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0004" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0005" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0006" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0007" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0008" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0009" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0010" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0011" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0012" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0013" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0014" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0015" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0016" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0017" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0018" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0019" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0020" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0021" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0022" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0023" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="LeftSpeed0024" x="2167" y="577" width="228" height="273"/>
+	<SubTexture name="Pre-speed0000" x="2405" y="577" width="206" height="273"/>
+	<SubTexture name="Pre-speed0001" x="2621" y="577" width="206" height="273"/>
+	<SubTexture name="Pre-speed0002" x="2837" y="577" width="206" height="273"/>
+	<SubTexture name="Pre-speed0003" x="3053" y="577" width="206" height="273"/>
+	<SubTexture name="Pre-speed0004" x="3269" y="577" width="206" height="273"/>
+	<SubTexture name="Pre-speed0005" x="3485" y="577" width="206" height="273"/>
+	<SubTexture name="Pre-speed0006" x="3485" y="577" width="206" height="273"/>
+	<SubTexture name="Pre-speed0007" x="3701" y="577" width="206" height="273"/>
+	<SubTexture name="Pre-speed0008" x="10" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0009" x="226" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0010" x="442" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0011" x="658" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0012" x="658" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0013" x="874" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0014" x="874" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0015" x="874" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0016" x="874" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0017" x="874" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0018" x="874" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0019" x="874" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0020" x="874" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0021" x="874" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0022" x="874" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0023" x="874" y="861" width="206" height="273"/>
+	<SubTexture name="Pre-speed0024" x="874" y="861" width="206" height="273"/>
+	<SubTexture name="Right0000" x="1090" y="861" width="401" height="303"/>
+	<SubTexture name="Right0001" x="1501" y="861" width="401" height="303"/>
+	<SubTexture name="Right0002" x="1912" y="861" width="401" height="303"/>
+	<SubTexture name="Right0003" x="2323" y="861" width="401" height="303"/>
+	<SubTexture name="Right0004" x="2734" y="861" width="401" height="303"/>
+	<SubTexture name="Right0005" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0006" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0007" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0008" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0009" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0010" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0011" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0012" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0013" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0014" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0015" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0016" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0017" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0018" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0019" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0020" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0021" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0022" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0023" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="Right0024" x="3145" y="861" width="401" height="303"/>
+	<SubTexture name="RightSpeed0000" x="3556" y="861" width="348" height="303"/>
+	<SubTexture name="RightSpeed0001" x="10" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0002" x="368" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0003" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0004" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0005" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0006" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0007" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0008" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0009" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0010" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0011" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0012" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0013" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0014" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0015" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0016" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0017" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0018" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0019" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0020" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0021" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0022" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0023" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="RightSpeed0024" x="726" y="1174" width="348" height="303"/>
+	<SubTexture name="Up0000" x="1084" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0001" x="1280" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0002" x="1476" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0003" x="1672" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0004" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0005" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0006" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0007" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0008" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0009" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0010" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0011" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0012" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0013" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0014" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0015" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0016" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0017" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0018" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0019" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0020" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0021" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0022" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0023" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="Up0024" x="1868" y="1174" width="186" height="305"/>
+	<SubTexture name="UpSpeed0000" x="2064" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0001" x="2262" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0002" x="2460" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0003" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0004" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0005" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0006" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0007" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0008" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0009" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0010" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0011" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0012" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0013" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0014" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0015" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0016" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0017" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0018" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0019" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0020" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0021" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0022" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0023" x="2658" y="1174" width="188" height="312"/>
+	<SubTexture name="UpSpeed0024" x="2658" y="1174" width="188" height="312"/>
+</TextureAtlas>

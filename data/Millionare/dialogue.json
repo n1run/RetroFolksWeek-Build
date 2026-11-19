@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"expression": "suprised",
+			"text": "You did pretty good there!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "FDDHHHYd"
+		},
+		{
+			"expression": "talk",
+			"text": "too ez",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "I'm gonna go fast now, try to keep up.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "FDDHHHYd"
+		},
+		{
+			"expression": "awesome",
+			"text": "Ready to get slapped, kid?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "FDDHHHYd"
+		},
+		{
+			"expression": "talk",
+			"text": "ok oldtimer",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.01,
+			"portrait": "bf"
+		}
+	]
+}

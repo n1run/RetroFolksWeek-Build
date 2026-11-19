@@ -1,0 +1,45 @@
+{
+	"storyName": "It's time to slap",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "retrostage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Retro-Battles",
+			"FDDHHHY",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Millionare",
+			"FDDHHHY",
+			[
+				255,
+				240,
+				100
+			]
+		],
+		[
+			"Breaking-Point",
+			"FDDHHHY",
+			[
+				40,
+				40,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"FDDHHHY",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week $"
+}

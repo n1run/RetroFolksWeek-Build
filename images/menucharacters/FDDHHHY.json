@@ -1,0 +1,9 @@
+{
+	"idle_anim": "Menu",
+	"antialiasing": true,
+	"confirm_anim": "Menu",
+	"position": [-30, -62],
+	"scale": 1.05,
+	"flipX": false,
+	"image": "FDDHHHY"
+}

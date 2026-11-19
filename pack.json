@@ -1,0 +1,9 @@
+{
+	"name": "Retro Folks WEEK$ BUILD",
+	"description": "FNF mod for Retro Slap Battles",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [81, 249, 196],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}
